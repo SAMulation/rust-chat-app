@@ -1,0 +1,11 @@
+/Users/sam/Documents/Projects/repos/rust-chat-app/rust-chat-app/target/debug/deps/parking_lot_core-437b2ac2cf3adb4c.rmeta: /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs
+
+/Users/sam/Documents/Projects/repos/rust-chat-app/rust-chat-app/target/debug/deps/parking_lot_core-437b2ac2cf3adb4c.d: /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs /Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs
+
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/lib.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/parking_lot.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/spinwait.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/mod.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/util.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/word_lock.rs:
+/Users/sam/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.5/src/thread_parker/unix.rs:
